@@ -6,8 +6,8 @@ This is a project to implemented a web-based collaborative code editor which sup
 
 ## Interface Showcase 
 #### Before sign-in
-![image1](https://raw.githubusercontent.com/yogazh25/StockTwitsVis/master/assets/sign-in.png)
+![image1](https://raw.githubusercontent.com/yogazh25/COJ/master/assets/sign-in.png)
 #### After authentication
-![image2](https://raw.githubusercontent.com/yogazh25/StockTwitsVis/master/assets/managePro.png)
+![image2](https://raw.githubusercontent.com/yogazh25/COJ/master/assets/managePro.png)
 #### Code excutor 
-![image3](https://raw.githubusercontent.com/yogazh25/StockTwitsVis/master/assets/problem-details.png)
+![image3](https://raw.githubusercontent.com/yogazh25/COJ/master/assets/problem-details.png)
