@@ -1,5 +1,5 @@
 ## Problem Descriptions
-This is a project to implement a web-based collaborative code editor which supports multiple user editing simultaneously. I designed a single-page web application for coding, running, and compiling problems. To refactored and improved system throughput, I used decoupling services based on RESTful API and loaded balancing by Nginx. 
+This is a project to implement a web-based collaborative code editor which supports multiple users editing simultaneously. I designed a single-page web application for coding, running, and compiling problems. To refactored and improved system throughput, I used decoupling services based on RESTful API and loaded balancing by Nginx. 
 
 ## Interface Showcase 
 #### Before sign-in
